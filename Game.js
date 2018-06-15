@@ -342,7 +342,7 @@ var yPos = 200;
 var song2;
 
 function preload() {
-  song2 = loadSound('432544__slowmountain__waistland.mp3');
+  song2 = loadSound('Assests/sound/bensound-ukulele.mp3');
  
 }  
 
